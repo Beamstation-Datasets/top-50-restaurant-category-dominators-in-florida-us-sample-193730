@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Florida, US",
+  "export_job_id": "58f3fb59-306a-4860-add5-351bc6da2307",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 193730,
+  "location_name": "Florida",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-florida-us-sample-193730",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/193730/beamstation_193730_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 10.42,
+  "sample_records": 5,
+  "sample_sha256": "f3c76b87c5db1971c95ab62d70014cd1ed0a9989beada786c07a2dfc0b083d9c",
+  "sample_size_bytes": 37545,
+  "total_records": 48,
+  "updated_at": "2026-04-01T00:07:42.093722+00:00"
+}
