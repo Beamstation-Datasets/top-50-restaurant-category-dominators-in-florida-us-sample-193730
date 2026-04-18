@@ -9,9 +9,9 @@
 | Dataset ID | `193730` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 48 records |
-| Free sample size | 5 records (10.42%) |
-| Last export | 2026-04-01T00:07:42.093722+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-15T01:49:33.922093+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-florida-us-sample-193730/releases/download/sample-latest/beamstation_193730_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
