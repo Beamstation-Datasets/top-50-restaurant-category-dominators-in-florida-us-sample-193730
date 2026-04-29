@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Florida, US",
-  "export_job_id": "8619a181-8329-4bdf-9754-510f87a90ca7",
+  "export_job_id": "a0d76933-adcf-45fd-a0ba-74c8a5b268cf",
   "github_org": "Beamstation-Datasets",
   "id_short": 193730,
   "location_name": "Florida",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-florida-us-sample-193730",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/193730/beamstation_193730_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 9.09,
+  "sample_pct": 9.46,
   "sample_records": 7,
-  "sample_sha256": "d9f8165eed44f7d1b73eb2d8bda2197b3b98541f6efc9e32aa30c1ad2ff106e6",
-  "sample_size_bytes": 42879,
-  "total_records": 77,
-  "updated_at": "2026-04-22T06:34:19.854901+00:00"
+  "sample_sha256": "80ca22f97d1c804f9ac8e26ef7a2225a3e40260809f321306411650d19a3638e",
+  "sample_size_bytes": 45584,
+  "total_records": 74,
+  "updated_at": "2026-04-29T08:40:18.318361+00:00"
 }
