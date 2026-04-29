@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8619a181-8329-4bdf-9754-510f87a90ca7",
+  "export_job_id": "a0d76933-adcf-45fd-a0ba-74c8a5b268cf",
   "id_short": 193730,
-  "published_at": "2026-04-22T07:11:07Z",
+  "published_at": "2026-04-29T19:05:00Z",
   "repo_name": "top-50-restaurant-category-dominators-in-florida-us-sample-193730",
   "sample_asset_name": "beamstation_193730_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/193730/beamstation_193730_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_records": 7,
-  "sample_sha256": "d9f8165eed44f7d1b73eb2d8bda2197b3b98541f6efc9e32aa30c1ad2ff106e6",
-  "sample_size_bytes": 42879,
-  "total_records": 77
+  "sample_sha256": "80ca22f97d1c804f9ac8e26ef7a2225a3e40260809f321306411650d19a3638e",
+  "sample_size_bytes": 45584,
+  "total_records": 74
 }
